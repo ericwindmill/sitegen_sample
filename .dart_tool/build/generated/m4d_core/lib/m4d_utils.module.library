@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["validate|lib/validate.dart"],"parts":["m4d_core|lib/utils/StringToFunction.dart","m4d_core|lib/utils/ConvertValue.dart"],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

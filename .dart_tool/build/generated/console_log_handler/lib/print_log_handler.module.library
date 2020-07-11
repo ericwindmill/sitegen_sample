@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["ansicolor|lib/ansicolor.dart","logging|lib/logging.dart","console_log_handler|lib/shared/log_handler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":false}

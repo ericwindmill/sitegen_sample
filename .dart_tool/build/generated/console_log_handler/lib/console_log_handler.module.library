@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["logging|lib/logging.dart","console_log_handler|lib/shared/log_handler.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html","convert"],"hasMain":false}

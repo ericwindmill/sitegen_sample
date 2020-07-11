@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["console_log_handler|lib/console_log_handler.dart","m4d_core|lib/m4d_ioc.dart","m4d_components|lib/m4d_components.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["logging|lib/logging.dart","validate|lib/validate.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"],"hasMain":false}
